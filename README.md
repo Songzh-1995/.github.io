@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[您的姓名] - 学术主页</title>
+    <title>[Song Zihao] - 学术主页</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -71,12 +71,12 @@
     <header>
         <img src="[您的照片路径]" alt="[您的姓名]" class="profile-img">
         <h1>[您的姓名]</h1>
-        <div class="position">[您的职称/职位]</div>
-        <div class="position">[您的机构/大学名称]</div>
+        <div class="position">[Visitor]</div>
+        <div class="position">[Research Institute for Mathematical Sciences, Kyoto University]</div>
         <div class="contact">
-            邮箱: <a href="mailto:您的邮箱">您的邮箱</a> | 
+            邮箱: <a href="mailto:szh1999@nuaa.edu.cn">您的邮箱</a> | 
             个人简历: <a href="[CV链接]">PDF</a> | 
-            Google Scholar: <a href="[Google Scholar链接]">链接</a>
+            Google Scholar: <a href="[[Google Scholar链接](https://scholar.google.com/citations?user=IElM5nUAAAAJ&hl=en&oi=sra)]">链接</a>
         </div>
     </header>
 
